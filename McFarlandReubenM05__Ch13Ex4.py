@@ -1,7 +1,7 @@
 #Change test for github
 #SDEV 140 Celsius to Fahrenheit Ch. 13 Ex. 4
 #Reuben A. McFarland
-#A program that converts from Celsius to Fahrenheit (and the other way) with a graphical interface
+
 
 
 import tkinter
